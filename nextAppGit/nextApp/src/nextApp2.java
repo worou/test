@@ -9,7 +9,7 @@ public class nextApp2 {
 		Scanner sc = new Scanner(System.in);
 		String nom = sc.nextLine();
 		
-		System.out.println("");
+		System.out.println(" ");
 		System.out.println("Bonjour " + nom + ".");
 
 	}
